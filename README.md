@@ -1,0 +1,1 @@
+This repository contains tools and models for analyzing and predicting heart disease risk. It includes data exploration techniques, machine learning models for heart disease prediction, and insights into various heart conditions. The project aims to provide resources for understanding heart health and exploring preventive measures using data science and machine learning.
